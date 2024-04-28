@@ -1,4 +1,1 @@
-- I’m interested in roguelites, physics-based gameplay, and fast paced games
-- I’m currently learning game development in Unity because I'm basic
-- email: kegisi2006@gmail.com 
-- website: kegisi.w3spaces.com
+- FGCU Undergraduate in Computer Science
